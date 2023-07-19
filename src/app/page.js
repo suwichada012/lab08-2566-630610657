@@ -15,15 +15,19 @@ export default function Home() {
         {/* task input */}
         <TaskInput />
         {/* task */}
-        <Task title="Read a book" />
 
+        <Task title="Read a book" />
         {/* task */}
         <Task title="Take a shower" />
         {/* task */}
         <Task title="Sleep" />
       </div>
       {/* //footer section */}
-      <Footer fullname="suwichada pongkanmoon" studentId="630610657" />
+      <Footer
+        year="2023"
+        fullname="suwichada pongkanmoon"
+        studentId="630610657"
+      />
     </div>
   );
 }
