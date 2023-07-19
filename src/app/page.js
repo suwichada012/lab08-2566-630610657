@@ -22,7 +22,6 @@ export default function Home() {
         {/* task */}
         <Task title="Sleep" />
       </div>
-
       {/* //footer section */}
       <Footer fullname="suwichada pongkanmoon" studentId="630610657" />
     </div>
